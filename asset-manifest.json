@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Gymwebsite/static/css/main.d2dc68ea.css",
+    "main.js": "/Gymwebsite/static/js/main.072ca0dc.js",
+    "static/media/workouts.jpg": "/Gymwebsite/static/media/workouts.9f73b5b0cfeb804f88e2.jpg",
+    "static/media/5.jpg": "/Gymwebsite/static/media/5.85098319c770d30d5a0c.jpg",
+    "static/media/1.jpg": "/Gymwebsite/static/media/1.cafafa8011646ef3bfb3.jpg",
+    "static/media/4.jpg": "/Gymwebsite/static/media/4.14e300dfff769b373801.jpg",
+    "static/media/3.jpg": "/Gymwebsite/static/media/3.ca1f69c8552d2ec5b47c.jpg",
+    "static/media/6.jpg": "/Gymwebsite/static/media/6.c27a301ba531d539467b.jpg",
+    "static/media/2.jpg": "/Gymwebsite/static/media/2.2a4f94a8690eca93c251.jpg",
+    "static/media/addweb.webp": "/Gymwebsite/static/media/addweb.6a8632b4bb46ede88bea.webp",
+    "static/media/7.webp": "/Gymwebsite/static/media/7.8b6f1a9a549082d4c12f.webp",
+    "static/media/addmobile.webp": "/Gymwebsite/static/media/addmobile.8851cacc9700e1841d99.webp",
+    "static/media/logo.webp": "/Gymwebsite/static/media/logo.18301382548055b78fee.webp",
+    "index.html": "/Gymwebsite/index.html",
+    "main.d2dc68ea.css.map": "/Gymwebsite/static/css/main.d2dc68ea.css.map",
+    "main.072ca0dc.js.map": "/Gymwebsite/static/js/main.072ca0dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2dc68ea.css",
+    "static/js/main.072ca0dc.js"
+  ]
+}
